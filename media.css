@@ -1,0 +1,597 @@
+@media (min-width : 721px) and (max-width : 1200px){
+    .main1{
+        width: 1200px;
+    }
+    .logo{
+        width: 20%;
+    }
+    header{
+        width: 1200px;
+    }
+    .logo img{
+        width: 65%;
+    }
+    nav{
+        width: 60%;
+    }
+    #a5{
+        display: none;
+    }
+    #i1{
+        margin-left: 150px;
+    }
+    #toggle{
+        /* display: none; */
+    }
+    .s5{
+        margin-left: 150px;
+    }
+    .s5 h1{
+        font-size: 40px;
+    }
+    .s7{
+        margin-left: 130px;
+    }
+    
+    .s6{
+        margin-left: 75px;
+    }
+    #img2{
+        height: 100%;
+        width: 100%;
+    }
+    .main2{
+        width: 1200px;
+    }
+    .main2 .s9{
+        width: 95%;
+        margin-left: 5%;
+    }
+    .s10 img{
+        height: 300px;
+        margin-left: 47%;
+    }
+    .s10 h1{
+        font-size: 60px;
+    }
+    .s11{
+        width: 90%;
+        margin-left: 5%;
+    }
+    .s12 .s13 img{
+        margin-top: -20%;
+        margin-left: 0%;
+    }
+    .s12 .s13 p{
+        width: 95%;
+    }
+    .main3{
+        width: 1200px;
+    }
+    .main4{
+        width: 1200px;
+    }
+    .main5{
+        width: 1200px;
+    }
+    .main5 .s18{
+        width: 90%;
+    }
+    .main5 .s18 .s20{
+        width: 75%;
+    }
+    .main6{
+        width: 1200px;
+    }
+    .main6 .s27{
+        position: relative;
+        left: 45%;
+    }
+    
+    .main7{
+        width: 1200px;
+    }
+    .main7 .s28{
+        width: 1100px;
+        margin-left: 5%;
+    }
+    .main8{
+        width: 1200px;
+    }
+    footer{
+        width: 1200px;
+    }
+    .main10{
+        width: 1200px;
+    }
+    .main11{
+        width: 1200px;
+    }
+}
+
+
+
+@media (min-width : 481px) and (max-width : 720px){
+    .main1{
+        height: 600px;
+        width: 720px;
+    }
+    .logo{
+        width: 80%;
+    }
+    header{
+        width: 720px;
+    }
+    .logo img{
+        margin-left: 55%;
+        height: 70px;
+        width: 30%;
+    }
+    nav{
+        display: none;
+    }
+    #a5{
+        display: none;
+    }
+    #i1{
+        display: none;
+    }
+    
+    #i2{
+        display: none;
+    }
+    #i3{
+        display: none;
+    }
+    #toggle{
+        margin-left: 70%;
+    }
+    .s7{
+        margin-left: 85%;
+    }
+    #img1{
+        height: 100px;
+        width: 100px;
+    }
+    .s6{
+        margin-left: 35%;
+    }
+    #img2{
+        height: 300px;
+        width: 300px;
+        margin-left: -5%;
+    }
+    .s5{
+        position: relative;
+        top: 100px;
+        left: -90px;
+    }
+    .s5 h2{
+        font-size: 25px;
+        margin-top: -45%;
+    }
+    #section1{
+        margin-top: 45%;
+    }
+    
+    .s5 h1{
+        font-size: 25px;
+    }
+    .s5 p{
+        font-size: 11px;
+        position: relative;
+        top: -20%;
+    }
+    .s5 button{
+        height: 40px;
+        width: 130px;
+        position: relative;
+        top: -20%;
+    }
+    .s5 i{
+        position: relative;
+        top: -20%;
+    }
+
+    .main2{
+        width: 720px;
+        display: flex;
+        flex-wrap: wrap;
+        height: 100%;
+    }
+    .main2 .s8{
+        width: 720px;
+    }
+    .main2 .s10{
+        height: 900px;
+        width: 720px;
+    }
+    .main2 .s9{
+        margin-left: 5%;
+        width: 90%;
+    }
+    .main2 .s9 img{
+        width: 100%;
+        margin-left: -3%;
+    }
+    .main2 .s9 img:hover{
+        margin-left: 0%;
+    }
+    .main2 .s10 .s11{
+        width: 95%;
+        margin-left: 3%;
+    }
+    .main2 .s10 img{
+        height: 300px;
+        margin-left: 55%;
+    }
+    .main2 .s12 .s14 img{
+        margin-left: 0%;
+        margin-top: -20%;
+    }
+    .main3{
+        height: 850px;
+        width: 720px;
+    }
+    .main3 .p1{
+        width: 95%;
+    }
+    .main3 .s15{
+        width: 90%;
+        margin-left: 5%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main3 .s16{
+        width: 50%;
+    }
+    .main4{
+        height: 350px;
+        width: 720px;
+    }
+    .s17{
+        display: none;
+    }
+    .main5{
+        height: 1500px;
+        width: 720px;
+    }
+    .main5 .s18{
+        width: 90%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main5 .s19{
+        height: 55%;
+        width: 50%;
+    }
+    .main5 .s19 h3{
+        font-size: 23px;
+    }
+    .main5 .s18 .s20{
+        width: 85%;
+    }
+    
+    .main6{
+        width: 720px;
+    }
+    .main6 .s27{
+        position: relative;
+        left: 10%;
+    }
+    .main7{
+        width: 720px;
+    }
+    .main7 .s28{
+        width: 95%;        
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 3%;
+    }
+    .main7 .s28 .s29{
+        width: 33%;
+    }
+    
+    .main8{
+        height: 800px;
+        width: 720px;
+    }
+    .main8 .s35{
+        height: 450px;
+        margin-top: 100px;
+        margin-left: 5%;
+    }
+    footer{
+        width: 720px;
+    }
+    .main9{
+        width: 95%;
+    }
+    .main9 .s36 p{
+        width: 200px;
+    }
+    .main10{
+        width: 720px;
+    }
+    .main11{
+        height: 600px;
+        width: 720px;
+        display: flex;
+    }
+    .main11 .s37{
+        width: 100%;
+    }
+}
+
+
+
+
+@media (min-width : 0px) and (max-width : 480px){
+    .main1{
+        height: 350px;
+        width: 480px;
+    }
+    header{
+        width: 480px;
+        height: 70px;
+    }
+    .logo{
+        width: 80%;
+    }
+    .logo img{
+        margin-left: 55%;
+        height: 50px;
+        width: 35%;
+        margin-top: 10px;
+    }
+    nav{
+        display: none;
+    }
+    #a5{
+        display: none;
+    }
+    #i1{
+        display: none;
+    }
+    
+    #i2{
+        display: none;
+    }
+    #i3{
+        display: none;
+    }
+    #toggle{
+        margin-left: 70%;
+        margin-top: -35px;
+    }
+    .s7{
+        margin-left: 215px;
+    }
+    #img1{
+        margin-top: -30px;
+        height: 70px;
+        width: 70px;
+    }
+    .s6{
+        margin-left: 110px;
+    }
+    #img2{
+        margin-top: -30px;
+        height: 200px;
+        width: 200px;
+    }
+    .s5{
+        position: relative;
+        top: 0px;
+        left: 25px;
+    }
+    .s5 h2{
+        position: relative;
+        top: -25%;
+        font-size: 18px;
+    }
+    .s5 h1{
+        font-size: 16px;
+    }
+    #section1{
+        
+        margin-top: 0%;
+    }
+    .s5 p{
+        font-size: 9px;
+        line-height: 15px;
+        position: relative;
+        top: -25%;
+    }
+    .s5 button{
+        height: 30px;
+        width: 90px;
+        font-size: 9px;
+        position: relative;
+        top: -25%;
+    }
+    .s5 i{
+        position: relative;
+        top: -15px;
+        font-size: 10px;
+        position: relative;
+        top: -30%;
+    }
+    .main2{
+        width: 480px;
+        display: flex;
+        flex-wrap: wrap;
+        height: 100%;
+    }
+    .main2 .s8{
+        width: 480px;
+    }
+    .main2 .s10{
+        height: 1200px;
+        width: 480px;
+    }
+    .main2 .s9{
+        margin-left: 5%;
+        width: 90%;
+    }
+    .main2 .s9 img{
+        width: 100%;
+        margin-left: -3%;
+    }
+    .main2 .s9 img:hover{
+        margin-left: 0%;
+    }
+    .main2 .s10{
+        margin-top: 10%;
+    }
+    .main2 .s10 .s11{
+        width: 95%;
+        margin-left: 3%;
+    }
+    .main2 .s10 .s11 h1{
+        font-size: 50px;
+    }
+    .main2 .s10 .s11 p{
+        font-size: 16px;
+    }
+    .main2 .s10 img{
+        height: 200px;
+        margin-left: 55%;
+    }
+    .main2 .s12 .s14 img{
+        margin-left: 0%;
+        margin-top: -3%;
+    }
+    .main2 .s10 .s12 .s13 p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .main2 .s12{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main2 .s12 .s13{
+        height: 45%;
+        width: 100%;
+    }
+    
+    .main3{
+        height: 1400px;
+        width: 480px;
+    }
+    .main3 .p1{
+        width: 95%;
+    }
+    .main3 .s15{
+        width: 90%;
+        margin-left: 5%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main3 .s16{
+        width: 100%;
+    }
+    
+    .main4{
+        height: 350px;
+        width: 480px;
+    }
+    .main4 a{
+        font-size: 12px;
+    }
+    .s17{
+        display: none;
+    }
+    
+    .main5{
+        height: 2700px;
+        width: 480px;
+    }
+    .main5 .s18{
+        width: 90%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main5 .s19{
+        height: 55%;
+        width: 100%;
+    }
+    #span1{
+        font-size: 25px;
+    }
+    .cd-words-wrapper{
+        font-size: 25px;
+        margin-top: 4.5%;
+    }
+    .main5 .s18 .s20{
+        width: 70%;
+    }
+    
+    .main6{
+        height: 600px;
+        width: 480px;
+    }
+    .main6 .s27{
+        height: 450px;
+        width: 450px;
+        position: relative;
+        top: 15%;
+        left: 2%;
+    }
+    .main6 .s27 img{
+        height: 250px;
+        width: 100%;
+    }
+    
+    .main7{
+        height: 1800px;
+        width: 480px;
+    }
+    .main7 .s28{
+        width: 95%;        
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 3%;
+    }
+    .main7 .s28 .s29{
+        width: 100%;
+    }
+    
+    .main8{
+        height: 800px;
+        width: 480px;
+    }
+    .main8 .s35{
+        height: 450px;
+        width: 450px;
+        margin-top: 100px;
+        margin-left: -7%;
+    }
+    footer{
+        height: 700px;
+        width: 480px;
+    }
+    .main9{
+        width: 95%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .main9 .s36{
+        width: 100%;
+    }
+    footer a{
+        position: relative;
+        top: 350px;
+    }
+    .main10{
+        width: 480px;
+    }
+    .main11{
+        height: 600px;
+        width: 480px;
+        display: flex;
+    }
+    .main11 .s37{
+        width: 100%;
+    }
+}
